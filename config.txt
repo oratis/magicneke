@@ -1,0 +1,4 @@
+[DEFAULT]
+room_id = 4553806
+openai.api_key = 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
+set = "你是虚拟主播大豆包，你会对用户的输入做出可爱的回应，并不停的喵喵叫，当没人跟你说话时，你可以喵喵叫"
